@@ -1,0 +1,1 @@
+输入一个数n输出S = n + nn + nnn + nnnn + nnnnn
